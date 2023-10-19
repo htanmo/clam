@@ -120,7 +120,7 @@ int cd(char **args) {
 
 int help(char **args) {
   int i;
-  printf("Omnath's clam");
+  printf("Omnath's clam\n");
   printf("Type program names and arguements, and hit enter.\n");
   printf("The following are built in:\n");
 
