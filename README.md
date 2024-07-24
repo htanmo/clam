@@ -1,6 +1,6 @@
 # CLAM
 
-A simple shell implementation in C which works on linux operating system.
+A simple shell implementation in C which works on posix complaint OS.
 
 ## Building the project
 
